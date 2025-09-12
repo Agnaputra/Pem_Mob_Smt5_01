@@ -2,13 +2,17 @@
 Modify the code so the output matches your name:
 ```dart:
 void main() {
-  for (int i = 0; i < 5; i++) {
-    print('Hello Khoirul Anwar ${i + 1}');
+  int umur = 18;
+
+  for (int i = 0; i < 10; i++){
+    print('Nama saya adalah Agna, sekarang umur ${umur - i}');
   }
+
+  umur = umur;
 }
 ```
 Output:
-![alt text](img/question4_nullSafety.png)
+![alt text](img/question1_pict.png)
 
 ## Question 2
 Why is it so important to understand the Dart programming language before using the Flutter framework? Explain!

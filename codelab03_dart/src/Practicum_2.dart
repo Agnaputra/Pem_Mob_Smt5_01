@@ -15,6 +15,7 @@
 // Step 2:
 // Please try running the code in step 1. What happens? Explain! Then, correct any errors.
 
+
 // because,counter is not declared anywhere.
 
 // Step 3:

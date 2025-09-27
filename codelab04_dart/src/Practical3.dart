@@ -36,22 +36,22 @@
 // in nobleGases is likely a typo for 'argon' (atomic number 18).
 
 // Corrected for consistent data types
-// void main() {
-//   var gifts = {
-//     // Key:    Value
-//     'first': 'partridge',
-//     'second': 'turtledoves',
-//     'fifth': 'golden rings' // Corrected to String
-//   };
+void main() {
+  var gifts = {
+    // Key:    Value
+    'first': 'partridge',
+    'second': 'turtledoves',
+    'fifth': 'golden rings' // Corrected to String
+  };
 
-//     var nobleGases = {
-//       2: 'helium',
-//       10: 'neon',
-//       18: 'argon', // Corrected to String
-//   };
-//   print(gifts);
-//  print(nobleGases);
-// }
+    var nobleGases = {
+      2: 'helium',
+      10: 'neon',
+      18: 'argon', // Corrected to String
+  };
+  print(gifts);
+ print(nobleGases);
+}
 
 // Step 3
 // This step involves creating new, empty maps and then populating all four maps

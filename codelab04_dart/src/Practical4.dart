@@ -131,12 +131,12 @@
 // The code provided for this step is correct and has no errors. It runs as intended.
 
 
-void main () {
-  var listOfInts = [1, 2, 3];
-  var listOfStrings = ['#0', for (var i in listOfInts) '#$i'];
-  assert(listOfStrings[1] == '#1');
-  print(listOfStrings);
-}
+// void main () {
+//   var listOfInts = [1, 2, 3];
+//   var listOfStrings = ['#0', for (var i in listOfInts) '#$i'];
+//   assert(listOfStrings[1] == '#1');
+//   print(listOfStrings);
+// }
 
 // Explanation 💡
 // Collection for provides a concise, declarative syntax to build a collection from another. Here, 

@@ -1,7 +1,9 @@
 # Report codelab3
 
 Name: Agna Putra Prawira
+
 NIM:2341720065
+
 Absent:01
 
 ## Practical 1
